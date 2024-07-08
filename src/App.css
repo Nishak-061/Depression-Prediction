@@ -1,0 +1,37 @@
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+}
+
+input{
+    cursor: pointer;
+}
+
+label{
+    cursor: pointer;
+}
+body {
+    margin: 0;
+    padding: 0;
+   
+}
+.btn-primary{
+    border-radius: 50px;
+}
+
+.btn-danger{
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px;
+    display: inline-block;
+    border: 3px solid black;
+    margin-left: 45%;
+}
+
+
+  
